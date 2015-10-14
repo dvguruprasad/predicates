@@ -6,5 +6,5 @@
 /target
 /.lein-failures
 /checkouts
-/.lein-deps-sum
-/.lein-plugins
+/.lein-*
+/.nrepl-port
